@@ -1,25 +1,24 @@
 export const news = [
   {
-    category: 'Kashaf12 • LIVE',
-    title: 'FullStack Developer!',
+    category: 'Category - 1',
+    title: 'Title - 1',
     image:
       'https://pbs.twimg.com/profile_images/1243785892679958528/VzJ9WogO_400x400.jpg',
   },
   {
-    category: 'Databases • Trending',
-    title:
-      'Sanity is giving you free Boosted plan, use --coupon cleverprogrammer',
+    category: 'Category - 2',
+    title: 'Title - 2',
     image: 'https://avatars.githubusercontent.com/u/17177659?s=280&v=4',
   },
   {
-    category: 'Web3.0 • Trending',
-    title: 'Blockchain developers make over $150k',
+    category: 'Category - 3',
+    title: 'Title - 3',
     image:
       'https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/L424HUS65FGRVFPTYYPG24CIYI.jpg',
   },
   {
-    category: 'ReactJS • Trending',
-    title: 'Join Profit with React while spots last',
+    category: 'Category - 5',
+    title: 'Title - 5',
     image:
       'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/18907/products/cIkAZXNyRZimRw4uqXVX_gDvYTtwQsC33KZqCtbpB_image.jpg',
   },
